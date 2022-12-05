@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pato.png">
+<SubTexture name="culo idle0000" x="748" y="0" width="748" height="1245" frameX="-194" frameY="0" frameWidth="1116" frameHeight="1245" />
+<SubTexture name="down0000" x="2400" y="0" width="1095" height="894" frameX="0" frameY="-178" frameWidth="1095" frameHeight="1075" />
+<SubTexture name="down0001" x="1496" y="0" width="904" height="1075" frameX="-107" frameY="0" frameWidth="1116" frameHeight="1245" />
+<SubTexture name="left0000" x="0" y="1257" width="871" height="1075" frameX="0" frameY="0" frameWidth="952" frameHeight="1075" />
+<SubTexture name="left0001" x="1496" y="0" width="904" height="1075" frameX="-48" frameY="0" frameWidth="1116" frameHeight="1245" />
+<SubTexture name="pato death confirm0000" x="2400" y="1617" width="867" height="325" frameX="0" frameY="-475" frameWidth="867" frameHeight="805" />
+<SubTexture name="pato death loop0000" x="2710" y="894" width="700" height="468" frameX="0" frameY="0" frameWidth="876" frameHeight="509" />
+<SubTexture name="pato death loop0001" x="2710" y="894" width="700" height="468" frameX="0" frameY="0" frameWidth="876" frameHeight="509" />
+<SubTexture name="pato loop0000" x="2400" y="894" width="310" height="723" frameX="-37" frameY="-2" frameWidth="448" frameHeight="736" />
+<SubTexture name="right0000" x="871" y="1257" width="934" height="1075" frameX="-22" frameY="0" frameWidth="956" frameHeight="1075" />
+<SubTexture name="right0001" x="871" y="1257" width="934" height="1075" frameX="-22" frameY="0" frameWidth="956" frameHeight="1075" />
+<SubTexture name="right0002" x="1496" y="0" width="904" height="1075" frameX="0" frameY="0" frameWidth="1116" frameHeight="1245" />
+<SubTexture name="up0000" x="0" y="0" width="748" height="1257" frameX="-78" frameY="0" frameWidth="904" frameHeight="1257" />
+<SubTexture name="up0001" x="1496" y="0" width="904" height="1075" frameX="0" frameY="-180" frameWidth="1116" frameHeight="1245" />
+</TextureAtlas>
